@@ -1,6 +1,6 @@
 class HelloWorld:
-  def __init__(self,msg='')
+  def __init__(self,msg=''):
     self.msg = msg
-  def setMsg(self, msg='')
+  def setMsg(self, msg=''):
     self.msg = msg
  
