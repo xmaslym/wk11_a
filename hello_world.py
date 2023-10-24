@@ -4,5 +4,5 @@ class HelloWorld:
   def setMsg(self, msg=''):
     self.msg = msg
   def featureX(self,msg=''):
-    self.msg = msg + ' featureX'
+    self.msg = msg + ' featureXYZ'
    
